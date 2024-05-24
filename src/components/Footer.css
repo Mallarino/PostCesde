@@ -1,0 +1,13 @@
+.post-footer .btn {
+    flex: 1;
+    margin: 0 5px;
+  }
+  
+  .btn-sm {
+    font-size: 0.875rem;
+    padding: 0.25rem 0.5rem;
+  }
+  input.form-control-sm {
+    flex: 1;
+    margin-right: 5px;
+  }
